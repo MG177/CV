@@ -5,7 +5,7 @@
   <body><div class="area"></div><nav class="main-menu">
             <ul>
                 <li>
-                    <a href="home.php">
+                    <a href="index.php">
                         <i class="fa home fa-2x"><img src="icon/home.png"></i>
                         <span class="nav-text">
                             Home
