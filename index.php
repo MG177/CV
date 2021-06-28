@@ -19,7 +19,7 @@
       <table cellspacing="20">
         <tr>
           <td>
-            <img src="img/Ganteng.jpg" alt="profile-picture" width="200" />
+            <img src="img/Ganteng.jpg" alt="profile-picture" width="200" id="pp"/>
           </td>
           <td>
             <h1>Prayer MG Terok</h1>
